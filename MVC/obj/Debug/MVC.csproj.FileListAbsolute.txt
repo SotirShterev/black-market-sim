@@ -1,0 +1,453 @@
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\MVC.dll.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\MVC.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\MVC.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csc.exe
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csc.exe.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csc.rsp
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csi.exe
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csi.exe.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\csi.rsp
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.AppContext.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Collections.Immutable.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Console.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Globalization.Calendars.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Http.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Sockets.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Reflection.Metadata.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.ValueTuple.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\vbc.rsp
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Microsoft.Web.Infrastructure.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Helpers.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Mvc.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Optimization.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Razor.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\WebGrease.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Helpers.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Mvc.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Optimization.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.Razor.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\PU\PU C#\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+K:\PU\PU C#\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CopyComplete
+K:\PU\PU C#\BlackMarketSimulator\MVC\obj\Debug\MVC.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\obj\Debug\MVC.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\ApplicationService.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Repository.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Data.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\EntityFramework.dll
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\ApplicationService.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\ApplicationService.dll.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Repository.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Repository.dll.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Data.pdb
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\Data.dll.config
+K:\PU\PU C#\BlackMarketSimulator\MVC\bin\EntityFramework.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.dll.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.exe
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.exe.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.rsp
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.exe
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.exe.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.rsp
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.AppContext.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Console.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Http.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Sockets.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.ValueTuple.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.rsp
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.SqlServer.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.HashCode.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Options.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Primitives.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Identity.Client.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Logging.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Tokens.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Buffers.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Collections.Immutable.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.ComponentModel.Annotations.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Memory.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Numerics.Vectors.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Threading.Tasks.Extensions.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Helpers.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Mvc.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Optimization.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Razor.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\WebGrease.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.dll.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.SqlServer.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.HashCode.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Options.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Primitives.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Identity.Client.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Logging.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Tokens.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Buffers.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Collections.Immutable.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Memory.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Numerics.Vectors.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Threading.Tasks.Extensions.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Helpers.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Mvc.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Optimization.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Razor.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.dll.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.dll.config
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.pdb
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\users\fmi\Downloads\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.dll.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\MVC.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.exe
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.exe.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csc.rsp
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.exe
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.exe.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\csi.rsp
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.AppContext.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Collections.Immutable.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Console.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Globalization.Calendars.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Http.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Net.Sockets.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Reflection.Metadata.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.ValueTuple.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.exe.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\vbc.rsp
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\roslyn\VBCSCompiler.exe.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.SqlServer.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.HashCode.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Design.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Relational.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Memory.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Options.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Primitives.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Identity.Client.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Logging.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Tokens.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Web.Infrastructure.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Buffers.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Collections.Immutable.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.ComponentModel.Annotations.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Diagnostics.DiagnosticSource.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.IdentityModel.Tokens.Jwt.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Memory.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Numerics.Vectors.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Threading.Tasks.Extensions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Helpers.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Mvc.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Optimization.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Razor.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\WebGrease.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ApplicationService.dll.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\EntityFramework.SqlServer.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Bcl.HashCode.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Data.SqlClient.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Design.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.Relational.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Caching.Memory.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Options.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Extensions.Primitives.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Identity.Client.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Logging.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Tokens.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Buffers.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Collections.Immutable.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Diagnostics.DiagnosticSource.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.IdentityModel.Tokens.Jwt.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Memory.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Numerics.Vectors.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Threading.Tasks.Extensions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Helpers.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Mvc.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Optimization.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.Razor.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Deployment.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Web.WebPages.Razor.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Newtonsoft.Json.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Antlr3.Runtime.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Repository.dll.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Data.dll.config
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\de\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\es\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\fr\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\it\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ja\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ko\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\ru\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.csproj.CopyComplete
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\obj\Debug\MVC.pdb
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\PagedList.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\PagedList.Mvc.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\PagedList.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\PagedList.Mvc.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Abstractions.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Text.Encodings.Web.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Text.Json.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.ValueTuple.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.IdentityModel.Abstractions.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Text.Encodings.Web.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.Text.Json.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\System.ValueTuple.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Owin.dll
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Downloads\BlackMarketSimulator1\BlackMarketSimulator\BlackMarketSimulator\MVC\bin\Microsoft.Owin.Security.OAuth.xml

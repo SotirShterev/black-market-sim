@@ -1,0 +1,79 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<MVC.ViewModels.ArtifactVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Artifacts</h2>
+<p>
+    <a href="@Url.Action("Create", "Artifact")" class="-link">
+        <img src="~/img/plus.png" alt="Create">
+    </a>
+</p>
+@using (Html.BeginForm("SearchByPrice", "Artifact", FormMethod.Get))
+{
+    <p>
+        Price: @Html.TextBox("price")
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table" id="table1">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Date of discovery
+            </th>
+            <th>
+                IsInGoodCondition
+            </th>
+            <th>
+                Dealer
+            </th>
+            <th></th>
+        </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DateOfDiscovery)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.IsInGoodCondition)
+    </td>
+    @foreach (var dealer in ViewBag.Dealers as IEnumerable<SelectListItem>)
+    {
+        if (dealer.Value == item.DealerId.ToString())
+        {
+            <td>@dealer.Text</td>
+            break;
+        }
+    }
+<td>
+    <a href="@Url.Action("Edit", new { id = item.Id })" class="-link">
+        <img src="~/img/edit.png" alt="Edit">
+    </a>
+    <a href="@Url.Action("Delete", new { id = item.Id })" class="-link">
+        <img src="~/img/delete.png" alt="Delete">
+    </a>
+</td>
+</tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+    PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(
+        new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "table1" }))
+

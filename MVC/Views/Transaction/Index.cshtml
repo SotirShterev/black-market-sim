@@ -1,0 +1,92 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<MVC.ViewModels.TransactionVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Transactions</h2>
+<p>
+    <a href="@Url.Action("Create", "Transaction")" class="-link">
+        <img src="~/img/plus.png" alt="Create">
+    </a>
+</p>
+@using (Html.BeginForm("SearchByCountry", "Transaction", FormMethod.Get))
+{
+    <p>
+        Country: @Html.TextBox("country")
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table" id="table1">
+    <tr>
+        <th>
+            Date of Transaction
+        </th>
+        <th>
+            Country of Transaction
+        </th>
+        <th>
+            Transaction fee
+        </th>
+        <th>
+            Buyer
+        </th>
+        <th>
+            Seller
+        </th>
+        <th>
+            Artifact
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.dateOfTrans)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.countryOfTrans)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.transFee)
+    </td>
+    @foreach (var buyer in ViewBag.Dealers as IEnumerable<SelectListItem>)
+    {
+        if (buyer.Value == item.BuyerId.ToString())
+        {
+            <td>@buyer.Text</td>
+            break;
+        }
+    }
+    @foreach (var seller in ViewBag.Dealers as IEnumerable<SelectListItem>)
+    {
+        if (seller.Value == item.SellerId.ToString())
+        {
+            <td>@seller.Text</td>
+            break;
+        }
+    }
+    @foreach (var artifact in ViewBag.Artifacts as IEnumerable<SelectListItem>)
+    {
+        if (artifact.Value == item.ArtifactId.ToString())
+        {
+            <td>@artifact.Text</td>
+            break;
+        }
+    }
+<td>
+    <a href="@Url.Action("Edit", new { id = item.Id })" class="-link">
+        <img src="~/img/edit.png" alt="Edit">
+    </a>
+    <a href="@Url.Action("Delete", new { id = item.Id })" class="-link">
+        <img src="~/img/delete.png" alt="Delete">
+    </a>
+</td>
+</tr>
+    }
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+    PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(
+        new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "table1" }))

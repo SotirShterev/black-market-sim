@@ -1,0 +1,75 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<MVC.ViewModels.DealerVM>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Dealers</h2>
+<p>
+    <a href="@Url.Action("Create", "Dealer")" class="-link">
+        <img src="~/img/plus.png" alt="Create">
+    </a>
+</p>
+@using (Html.BeginForm("SearchByAge", "Dealer", FormMethod.Get))
+{
+    <p>
+        Age: @Html.TextBox("age")
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table" id="table1">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Username
+        </th>
+        <th>
+            Age
+        </th>
+        <th>
+            Gender
+        </th>
+        <th>
+            Date of joining market
+        </th>
+        <th>
+            HasCriminalRecord
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Username)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Age)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DateOfJoiningMarket)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.HasCriminalRecord)
+    </td>
+    <td>
+        <a href="@Url.Action("Edit", new { id = item.Id })" class="-link">
+            <img src="~/img/edit.png" alt="Edit">
+        </a>
+        <a href="@Url.Action("Delete", new { id = item.Id })" class="-link">
+            <img src="~/img/delete.png" alt="Delete">
+        </a>
+    </td>
+
+</tr>
+    }
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+    PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(
+        new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "table1" }))

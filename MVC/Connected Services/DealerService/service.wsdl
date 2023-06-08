@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DealerService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/ApplicationService.DTOs" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IDealerService_GetDealers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealers" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_GetDealers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_GetDealersByAge_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealersByAge" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_GetDealersByAge_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealersByAgeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_GetDealerById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealerById" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_GetDealerById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDealerByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_PostDealer_InputMessage">
+    <wsdl:part name="parameters" element="tns:PostDealer" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_PostDealer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PostDealerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_PutDealer_InputMessage">
+    <wsdl:part name="parameters" element="tns:PutDealer" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_PutDealer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PutDealerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_DeleteDealer_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDealer" />
+  </wsdl:message>
+  <wsdl:message name="IDealerService_DeleteDealer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDealerResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IDealerService">
+    <wsdl:operation name="GetDealers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/GetDealers" message="tns:IDealerService_GetDealers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/GetDealersResponse" message="tns:IDealerService_GetDealers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDealersByAge">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/GetDealersByAge" message="tns:IDealerService_GetDealersByAge_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/GetDealersByAgeResponse" message="tns:IDealerService_GetDealersByAge_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDealerById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/GetDealerById" message="tns:IDealerService_GetDealerById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/GetDealerByIdResponse" message="tns:IDealerService_GetDealerById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PostDealer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/PostDealer" message="tns:IDealerService_PostDealer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/PostDealerResponse" message="tns:IDealerService_PostDealer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PutDealer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/PutDealer" message="tns:IDealerService_PutDealer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/PutDealerResponse" message="tns:IDealerService_PutDealer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDealer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDealerService/DeleteDealer" message="tns:IDealerService_DeleteDealer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDealerService/DeleteDealerResponse" message="tns:IDealerService_DeleteDealer_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IDealerService" type="tns:IDealerService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetDealers">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/GetDealers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDealersByAge">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/GetDealersByAge" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDealerById">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/GetDealerById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PostDealer">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/PostDealer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutDealer">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/PutDealer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDealer">
+      <soap:operation soapAction="http://tempuri.org/IDealerService/DeleteDealer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DealerService">
+    <wsdl:port name="BasicHttpBinding_IDealerService" binding="tns:BasicHttpBinding_IDealerService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibraryBlackMarket/DealerService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

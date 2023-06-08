@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ArtifactService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/ApplicationService.DTOs" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IArtifactService_GetArtifacts_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifacts" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_GetArtifacts_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifactsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_GetArtifactsByPrice_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifactsByPrice" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_GetArtifactsByPrice_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifactsByPriceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_GetArtifactById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifactById" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_GetArtifactById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtifactByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_PostArtifact_InputMessage">
+    <wsdl:part name="parameters" element="tns:PostArtifact" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_PostArtifact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PostArtifactResponse" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_PutArtifact_InputMessage">
+    <wsdl:part name="parameters" element="tns:PutArtifact" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_PutArtifact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PutArtifactResponse" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_DeleteArtifact_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteArtifact" />
+  </wsdl:message>
+  <wsdl:message name="IArtifactService_DeleteArtifact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteArtifactResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IArtifactService">
+    <wsdl:operation name="GetArtifacts">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/GetArtifacts" message="tns:IArtifactService_GetArtifacts_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/GetArtifactsResponse" message="tns:IArtifactService_GetArtifacts_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArtifactsByPrice">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/GetArtifactsByPrice" message="tns:IArtifactService_GetArtifactsByPrice_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/GetArtifactsByPriceResponse" message="tns:IArtifactService_GetArtifactsByPrice_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArtifactById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/GetArtifactById" message="tns:IArtifactService_GetArtifactById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/GetArtifactByIdResponse" message="tns:IArtifactService_GetArtifactById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PostArtifact">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/PostArtifact" message="tns:IArtifactService_PostArtifact_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/PostArtifactResponse" message="tns:IArtifactService_PostArtifact_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PutArtifact">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/PutArtifact" message="tns:IArtifactService_PutArtifact_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/PutArtifactResponse" message="tns:IArtifactService_PutArtifact_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteArtifact">
+      <wsdl:input wsaw:Action="http://tempuri.org/IArtifactService/DeleteArtifact" message="tns:IArtifactService_DeleteArtifact_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IArtifactService/DeleteArtifactResponse" message="tns:IArtifactService_DeleteArtifact_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IArtifactService" type="tns:IArtifactService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetArtifacts">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/GetArtifacts" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArtifactsByPrice">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/GetArtifactsByPrice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArtifactById">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/GetArtifactById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PostArtifact">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/PostArtifact" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutArtifact">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/PutArtifact" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteArtifact">
+      <soap:operation soapAction="http://tempuri.org/IArtifactService/DeleteArtifact" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ArtifactService">
+    <wsdl:port name="BasicHttpBinding_IArtifactService" binding="tns:BasicHttpBinding_IArtifactService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibraryBlackMarket/ArtifactService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
